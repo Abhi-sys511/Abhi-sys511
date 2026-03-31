@@ -11,12 +11,18 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a passionate developer focused on building efficient, scalable, and intelligent systems.  
-    I work across backend development, AI-based solutions, and enterprise SAP technologies.
+    💻 <strong>Software Engineer</strong><br/>
+    I design and build efficient, scalable software systems with a focus on backend development, performance, and clean architecture.
   </p>
 
   <p>
-    I enjoy solving real-world problems using clean code, structured logic, and modern technologies.
+    🤖 <strong>AI Developer</strong><br/>
+    I create intelligent applications using Python, working on real-world problem solving, automation, and AI-based solutions.
+  </p>
+
+  <p>
+    🏢 <strong>SAP ABAP Developer</strong><br/>
+    I develop enterprise applications using SAP ABAP, focusing on backend logic, data handling, and business process solutions.
   </p>
 
   <p>
@@ -53,7 +59,7 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,python,c" />
+<img src="https://skillicons.dev/icons?i=html,css,python,c,java" />
 
 </td>
 
@@ -71,29 +77,23 @@
 <td width="50%" align="center">
 <h3>🗄️ Databases</h3>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,supabase" />
 
 </td>
 
 <td width="50%" align="center">
 <h3>🧰 Tools & Platforms</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,eclipse" />
 
 <br/><br/>
-<p>Cursor • Cloud (GCP / AWS)</p>
+<p>Cursor • Git Bash • Antigravity • Cloud</p>
 
 </td>
 
 </tr>
 </table>
 </p>
-
----
-
-## 📜 Certification
-
-- 🎓 SAP Certified Associate – Backend Developer – ABAP Cloud  
 
 ---
 
