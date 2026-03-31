@@ -5,23 +5,25 @@
   Hi, I'm <strong>𝗔𝗯𝗵𝗶𝗿𝗮𝗺 𝗧</strong>
 </h1>
 
+<h3>💻 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 | 🤖 𝘼𝙄 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 | 🏢 𝙎𝘼𝙋 𝘼𝘽𝘼𝙋 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧</h3>
+
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    💻 <strong>Software Engineer</strong><br/>
+    💻 <strong>𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿</strong><br/>
     I design and develop scalable software systems with a strong focus on backend architecture, performance optimization, and clean code practices.  
     I work on building reliable applications, structuring efficient logic, and ensuring maintainable and production-ready solutions.
   </p>
 
   <p>
-    🤖 <strong>AI Developer</strong><br/>
+    🤖 <strong>𝗔𝗜 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</strong><br/>
     I develop intelligent and data-driven solutions by working on problem-solving systems, automation, and analytical applications.  
     My focus is on creating smart systems that can process data, generate insights, and improve decision-making in real-world scenarios.
   </p>
 
   <p>
-    🏢 <strong>SAP ABAP Developer</strong><br/>
+    🏢 <strong>𝗦𝗔𝗣 𝗔𝗕𝗔𝗣 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</strong><br/>
     I work on enterprise-level SAP applications, focusing on backend logic, business process implementation, and data handling.  
     I build and optimize ABAP programs to support real-world business workflows and ensure efficient system performance.
   </p>
@@ -32,11 +34,11 @@
     <img src="https://img.shields.io/badge/⚡_AI_&_Backend_Developer-1e1e2e?style=for-the-badge" />
   </p>
 
-<h3>🌐 Socials</h3>
+<h3>🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀</h3>
   
 <p align="left">
   <a href="https://github.com/Abhi-sys511">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/abhiram-t-78463731a/">
@@ -51,21 +53,21 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ 𝗦𝗸𝗶𝗹𝗹𝘀
 
 <p align="center">
 <table>
 <tr>
 
 <td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
+<h3>💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀</h3>
 
 <img src="https://skillicons.dev/icons?i=html,css,python,c,java" />
 
 </td>
 
 <td width="50%" align="center">
-<h3>📚 Frameworks & Libraries</h3>
+<h3>📚 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀</h3>
 
 <img src="https://skillicons.dev/icons?i=tailwind,jquery" />
 
@@ -76,14 +78,14 @@
 <tr>
 
 <td width="50%" align="center">
-<h3>🗄️ Databases</h3>
+<h3>🗄️ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀</h3>
 
 <img src="https://skillicons.dev/icons?i=mysql,supabase" />
 
 </td>
 
 <td width="50%" align="center">
-<h3>🧰 Tools & Platforms</h3>
+<h3>🧰 𝗧𝗼𝗼𝗹𝘀 & 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,eclipse" />
 
@@ -105,15 +107,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Abhi-sys511&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Abhi-sys511&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
+
 ---
 
-## ⭐ Support Me
+## ⭐ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁
 
 <p align="center">
   ⭐ If you like my work, consider giving a star to my repositories!
