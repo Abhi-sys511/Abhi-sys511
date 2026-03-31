@@ -2,7 +2,7 @@
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>AbhiramDBH</strong>
+  Hi, I'm <strong>Abhiram T</strong>
 </h1>
 
 <h3>Software Engineer | AI Developer | SAP ABAP Developer</h3>
@@ -12,7 +12,8 @@
 
   <p>
     💻 <strong>Software Engineer</strong><br/>
-    I design and build efficient, scalable software systems with a focus on backend development, performance, and clean architecture.
+    I design and develop scalable software systems with a strong focus on backend architecture, performance optimization, and clean code practices.  
+    I work on building reliable applications, structuring efficient logic, and ensuring maintainable and production-ready solutions.
   </p>
 
   <p>
