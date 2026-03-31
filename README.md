@@ -5,7 +5,6 @@
   Hi, I'm <strong>Abhiram T</strong>
 </h1>
 
-
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
@@ -37,11 +36,11 @@
   
 <p align="left">
   <a href="https://github.com/Abhi-sys511">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/abhiram-t-78463731a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -89,7 +88,14 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,eclipse" />
 
 <br/><br/>
-<p>Cursor • Git Bash • Antigravity • Cloud</p>
+
+<p>
+<img src="https://img.shields.io/badge/Git_Bash-000?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor_AI-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude_AI-000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Antigravity-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-000?style=for-the-badge&logo=icloud&logoColor=white"/>
+</p>
 
 </td>
 
@@ -103,7 +109,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Abhi-sys511&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Abhi-sys511&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 ---
