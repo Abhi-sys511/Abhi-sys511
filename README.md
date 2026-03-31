@@ -5,7 +5,6 @@
   Hi, I'm <strong>Abhiram T</strong>
 </h1>
 
-<h3>Software Engineer | AI Developer | SAP ABAP Developer</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
@@ -18,12 +17,14 @@
 
   <p>
     🤖 <strong>AI Developer</strong><br/>
-    I create intelligent applications using Python, working on real-world problem solving, automation, and AI-based solutions.
+    I develop intelligent and data-driven solutions by working on problem-solving systems, automation, and analytical applications.  
+    My focus is on creating smart systems that can process data, generate insights, and improve decision-making in real-world scenarios.
   </p>
 
   <p>
     🏢 <strong>SAP ABAP Developer</strong><br/>
-    I develop enterprise applications using SAP ABAP, focusing on backend logic, data handling, and business process solutions.
+    I work on enterprise-level SAP applications, focusing on backend logic, business process implementation, and data handling.  
+    I build and optimize ABAP programs to support real-world business workflows and ensure efficient system performance.
   </p>
 
   <p>
