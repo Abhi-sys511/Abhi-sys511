@@ -96,7 +96,6 @@
 <img src="https://img.shields.io/badge/Cursor_AI-000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Claude_AI-000?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Antigravity-000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud-000?style=for-the-badge&logo=icloud&logoColor=white"/>
 </p>
 
 </td>
