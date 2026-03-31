@@ -8,6 +8,7 @@
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
+
   <p>
     💻 <strong>Software Engineer</strong><br/>
     I design and develop scalable software systems with a strong focus on backend architecture, performance optimization, and clean code practices.  
@@ -31,6 +32,7 @@
     <img src="https://img.shields.io/badge/💼_Open_to_Work-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/⚡_AI_&_Backend_Developer-1e1e2e?style=for-the-badge" />
   </p>
+
 
 <h3>🌐 Socials</h3>
   
