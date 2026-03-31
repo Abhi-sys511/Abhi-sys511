@@ -1,96 +1,113 @@
-<img align="center" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-# 👋 Hi, I'm AbhiramDBH
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>AbhiramDBH</strong>
+</h1>
 
----
+<h3>Software Engineer | AI Developer | SAP ABAP Developer</h3>
 
-## 💻 Software Engineer  
-I design and develop scalable software systems with a strong focus on backend architecture, performance optimization, and clean code practices.  
-I work on building reliable applications, structuring efficient logic, and ensuring maintainable and production-ready solutions.
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
----
+  <p>
+    💻 <strong>Software Engineer</strong><br/>
+    I design and build efficient, scalable software systems with a focus on backend development, performance, and clean architecture.
+  </p>
 
-## 🤖 AI Developer  
-I develop intelligent and data-driven solutions by working on problem-solving systems, automation, and analytical applications.  
-My focus is on creating smart systems that can process data, generate insights, and improve decision-making in real-world scenarios.
+  <p>
+    🤖 <strong>AI Developer</strong><br/>
+    I create intelligent applications using Python, working on real-world problem solving, automation, and AI-based solutions.
+  </p>
 
----
+  <p>
+    🏢 <strong>SAP ABAP Developer</strong><br/>
+    I develop enterprise applications using SAP ABAP, focusing on backend logic, data handling, and business process solutions.
+  </p>
 
-## 🏢 SAP ABAP Developer  
-I work on enterprise-level SAP applications, focusing on backend logic, business process implementation, and data handling.  
-I build and optimize ABAP programs to support real-world business workflows and ensure efficient system performance.
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💼_Open_to_Work-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/⚡_AI_&_Backend_Developer-1e1e2e?style=for-the-badge" />
+  </p>
 
----
-
-## 🌍 About Me
-
-- 🇮🇳 Based in India  
-- 💼 Open to Work  
-- ⚡ Focused on Software Engineering, AI, and SAP Development  
-
----
-
-## 🌐 Connect With Me
-
+<h3>🌐 Socials</h3>
+  
 <p align="left">
   <a href="https://github.com/Abhi-sys511">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/abhiram-t-78463731a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 </p>
+
+  <img src="https://komarev.com/ghpvc/?username=Abhi-sys511&style=flat-square&color=blue" alt="Profile Visit"/>
+</div>
+
+<br clear="all" />
 
 ---
 
 ## 🛠️ Skills
 
-### 💻 Programming Languages
-<p>
+<p align="center">
+<table>
+<tr>
+
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+
 <img src="https://skillicons.dev/icons?i=html,css,python,c,java" />
-</p>
 
----
+</td>
 
-### 🎨 Frameworks & Libraries
-<p>
+<td width="50%" align="center">
+<h3>📚 Frameworks & Libraries</h3>
+
 <img src="https://skillicons.dev/icons?i=tailwind,jquery" />
-</p>
 
----
+</td>
 
-### 🗄️ Databases
-<p>
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+<h3>🗄️ Databases</h3>
+
 <img src="https://skillicons.dev/icons?i=mysql,supabase" />
-</p>
 
----
+</td>
 
-### 🧰 Tools & Platforms
+<td width="50%" align="center">
+<h3>🧰 Tools & Platforms</h3>
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,eclipse" />
-</p>
 
-<p>
-<img src="https://img.shields.io/badge/Git_Bash-000?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor_AI-000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Antigravity-000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud-000?style=for-the-badge&logo=icloud"/>
+<br/><br/>
+<p>Cursor • Git Bash • Antigravity • Cloud</p>
+
+</td>
+
+</tr>
+</table>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Abhi-sys511&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Abhi-sys511&theme=dark&hide_border=true" alt="Streak" />
+</div>
 
 ---
 
-## ⭐ Support
+## ⭐ Support Me
 
 <p align="center">
-If you like my work, consider giving a ⭐ to my repositories!
+  ⭐ If you like my work, consider giving a star to my repositories!
 </p>
